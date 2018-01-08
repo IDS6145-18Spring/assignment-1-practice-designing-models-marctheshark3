@@ -23,10 +23,10 @@ A **smart city** is an urban area that uses different types of electronic data c
 (remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
 (remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
 
-[**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
-[**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
-[**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
-[**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
+* [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
+* [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
+* [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
+* [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
 
 ## Smart City (My Problem) Simulation
 
@@ -36,5 +36,5 @@ A **smart city** is an urban area that uses different types of electronic data c
 ## Smart City (My Problem) Model
 [**Code template**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
 
-## Smart City **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (POTS) Model
-Here [we provide an overview](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (POTS) Model and provide a source code template.
+## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
+Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
