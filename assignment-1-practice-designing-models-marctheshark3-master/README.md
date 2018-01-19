@@ -62,11 +62,14 @@ The user has the option to send their weekly list to their local paritipating gr
 
 ## Smart City (My Problem) Simulation
 
-[**Marc Mailloux**](anaylsis/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs -** how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)**
+[**Marc Mailloux**](anaylsis/README.md)
 
 
 ## Smart City (My Problem) Model
 [**Code template**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
+
+
+
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.

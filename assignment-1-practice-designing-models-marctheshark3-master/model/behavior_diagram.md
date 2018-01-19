@@ -1,4 +1,6 @@
-## Smart City Automated Grocery List Model - Object Diagram
+## Smart City Automated Grocery List Model - Sequence Diagram
+
+![Sequence Graphic](../images/Sequence.png)
 
 **DESCRIPTION**
 The model below describes the sequence in order to produce the Grocery List.
@@ -6,3 +8,4 @@ Initially the user is prompted which meals they would like to choose from the 'M
 
 ![Sequence Diagram](../images/sequencediagram.png)
 
+Picure Souce: https://en.wikipedia.org/wiki/Sequence

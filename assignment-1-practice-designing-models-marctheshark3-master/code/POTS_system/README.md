@@ -2,14 +2,13 @@
 
 (Remove: decribe the model here, use whatever diagram you need object, class, etc)
 
-(Remove: The code does run - you should try it. It does not do much, but has a very basic 
-simulation loop in it and key press to take a look at.)
-
-(Remove: You kill your plants after a key timesteps, but you could always add nuterients
-from compost and add more water and tweak it based on measured constants to simulate
-a real system)
+![POTS Object Diagram](../../images/pots_obj_dia.png)
 
 
-Example linked diagram to help you.
-![POTS system](../../images/class_example_diagram.png)
-more decription
+By looking at the object Diagram this system is connected via two main componets the vegtables and container. The container, is home to a variety of sources, and there is variety in the vegatables. Through the cycles, the volume will be calculated for each componet to determine the amount of water that the plants need, to then subtract the water taken out of the reserve. 
+
+![POTS Class Diagrams](../../images/pots_class_dias.png)
+
+Below the Class Diagrams can be seen for four classes.Each have their respective variables along with their own functions. Some variables are used over, which makes sense as the POTS system is relaying the information to gather all of the data. 
+
+
